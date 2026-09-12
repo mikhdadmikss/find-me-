@@ -34,7 +34,7 @@ For Software:
 ![Screenshot3]<img width="1919" height="1055" alt="Screenshot 2026-09-11 191651" src="https://github.com/user-attachments/assets/8b7b3c4a-e533-4a39-8f9f-465fc95f58a0" />
 
 
-live link
+live link: https://find-me-eta-five.vercel.app/
 
 
 
